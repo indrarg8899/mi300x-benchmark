@@ -1,0 +1,6 @@
+suite: full
+gpu_id: 0
+warmup: 10
+iterations: 200
+output_dir: ./results
+report_format: html
